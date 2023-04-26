@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ezequieldas/book-to-fly/static/css/main.76274210.css",
+    "main.js": "/Ezequieldas/book-to-fly/static/js/main.46b81c27.js",
+    "static/js/787.6dc984a5.chunk.js": "/Ezequieldas/book-to-fly/static/js/787.6dc984a5.chunk.js",
+    "static/media/background-travel-2.jpg": "/Ezequieldas/book-to-fly/static/media/background-travel-2.1b3bc05ab3ab53a29ab2.jpg",
+    "index.html": "/Ezequieldas/book-to-fly/index.html",
+    "main.76274210.css.map": "/Ezequieldas/book-to-fly/static/css/main.76274210.css.map",
+    "main.46b81c27.js.map": "/Ezequieldas/book-to-fly/static/js/main.46b81c27.js.map",
+    "787.6dc984a5.chunk.js.map": "/Ezequieldas/book-to-fly/static/js/787.6dc984a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76274210.css",
+    "static/js/main.46b81c27.js"
+  ]
+}
